@@ -1,4 +1,4 @@
-# Financial Fraud Detection Using SQL & Power BI
+# Financial Fraud Detection Using SQL
 
 ## 📌 Overview
 This project analyzes financial transactions to detect fraudulent activities using SQL and Power BI. It is designed for banking and financial institutions to identify high-risk transactions, suspicious customers, and fraud trends.
