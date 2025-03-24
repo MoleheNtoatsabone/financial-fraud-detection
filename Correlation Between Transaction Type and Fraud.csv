@@ -1,0 +1,5 @@
+Transaction_Type,Fraud_Count,Avg_Amount
+"POS Purchase",137,2415.4525547445255
+"Wire Transfer",134,2556.231343283582
+"ATM Withdrawal",111,2637.234234234234
+Online,107,2393.1869158878503
