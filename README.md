@@ -27,7 +27,7 @@ CSV for storing and sharing query results
 
 
 ## 🚀 How to Use
-1. Import the dataset into a SQL database.
-2. Run the provided SQL queries for fraud detection insights.
-3. Use Power BI to visualize fraud trends and anomalies.
+1. Import the "Financial_Fraud_Detection_Queries" file into a SQL database.
+2. Run the Script  for fraud detection insights.
+   
 
