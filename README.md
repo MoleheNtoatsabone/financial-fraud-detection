@@ -3,6 +3,8 @@
 This project focuses on detecting fraudulent financial transactions using SQL queries. The analysis identifies high-risk customers, suspicious locations, and unusual transaction patterns. The results are exported as CSV files, which can be opened in Excel or other data analysis tools.
 
 Key Features:
+
+
 ✅ SQL-Based Fraud Detection
 
 Identify high-risk customers based on frequent fraudulent transactions
