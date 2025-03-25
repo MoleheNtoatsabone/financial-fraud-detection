@@ -29,5 +29,10 @@ CSV for storing and sharing query results
 ## 🚀 How to Use
 1. Import the "Financial_Fraud_Detection_Queries" file into a SQL database.
 2. Run the Script  for fraud detection insights.
-   
+
+
+  🚀 Key Finding
+  Analysed transaction data to reveal key fraud indicators:
+  Identified POS Purchases and Wire Transfers as high-risk transaction types, with 137 and 134 fraud cases respectively.    
+  Pinpointed Durban and Cape Town as high-risk locations, accounting for 202 fraudulent transactions.   
 
